@@ -1,0 +1,10 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+body {
+    color: hsl(0 0% 90%);
+    background-color: hsl(0 0% 10%);
+}
